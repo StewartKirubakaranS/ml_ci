@@ -5,3 +5,6 @@ def test_add():
 
 def test_add1():
     assert add(-3,-5)==-8
+
+def test_add2():
+    assert add(0,0)==0
